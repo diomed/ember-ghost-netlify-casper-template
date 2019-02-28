@@ -1,5 +1,5 @@
 ---
-name: Ghost
+name: Seahorsey
 id: ghost
 image: /images/ghost-icon.png
 cover:
@@ -8,4 +8,3 @@ twitter:
 facebook:
 location:
 ---
-You can delete this user to remove all the welcome posts
