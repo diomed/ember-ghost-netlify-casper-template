@@ -6,7 +6,7 @@ imageMeta:
   attributionLink:
 featured: true
 author: ghost
-date: Thu Feb 29 2019 20:58:54 GMT+0100 (IST)
+date: Thu Feb 28 2019 20:58:54
 tags:
   - mathematics
 ---
