@@ -1,6 +1,6 @@
 ---
 title: Flixipas
-image: /images/tags.jpg
+image: https://camino.netlify.com/img/daily_pic.png
 imageMeta:
   attribution:
   attributionLink:
