@@ -1,5 +1,5 @@
 ---
-title: Welcome to Ember Ghost
+title: Welcome to Ember
 image: /images/welcome.jpg
 imageMeta:
   attribution:
@@ -26,14 +26,13 @@ ljubljeno dijete, baš o tvome vratu.
 
 ### Quick Start
 
-```sh
-# if you don't have ember-cli installed already
-npm install -g ember-cli
-
-ember new super-blog
-cd super-blog
-
-ember install ember-ghost ember-ghost-casper-template
+```
+Neki bi se možda pitali kako to dva čovjeka smatraju jedan drugoga za
+stare prijatelje iako se poznaju samo četiri godine; međutim, trajanje
+prijateljstva nikada se ne mjeri samo protokom vremena. Njih dvojica bi se
+osjećali kao stari prijatelji i da su se sreli tek koji sat ranije. 
+To je donekle bilo zato što su bili srodne duše.
+Džentlmen u Moskvi, Amor Towles 
 ```
 
 It will ask you if you want to update the `index.html` file and you should say yes 👍
