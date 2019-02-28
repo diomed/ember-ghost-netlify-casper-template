@@ -37,9 +37,9 @@ Eternal Sunshine of the Spotless Mind
 
 This was when I started using...
 
-Neki bi se možda pitali kako to dva čovjeka smatraju jedan drugoga za
+>Neki bi se možda pitali kako to dva čovjeka smatraju jedan drugoga za
 stare prijatelje iako se poznaju samo četiri godine; međutim, trajanje
 prijateljstva nikada se ne mjeri samo protokom vremena. Njih dvojica bi 
 se osjećali kao stari prijatelji i da su se sreli tek koji sat ranije. 
-To je donekle bilo zato što su bili srodne duše.
+To je donekle bilo zato što su bili srodne duše.  
 Džentlmen u Moskvi, Amor Towles 
