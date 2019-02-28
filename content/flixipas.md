@@ -8,7 +8,7 @@ featured: true
 author: ghost
 date: Feb 28 2019 20:22:10
 tags:
-  - getting-started
+  - flixipas
 ---
 
 Pričaj mi o mljackavosti   
