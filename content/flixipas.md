@@ -24,9 +24,8 @@ Pričaj mi o sebi.
 
 Pričaj mi o valovitosti svojih (v)oćnih jabučica
 -----
-flixipas
+flixipas 
 -----
-
 
 Miševi miševi miševi miševi  
 Trče mojim mozgom,   
@@ -42,4 +41,4 @@ stare prijatelje iako se poznaju samo četiri godine; međutim, trajanje
 prijateljstva nikada se ne mjeri samo protokom vremena. Njih dvojica bi 
 se osjećali kao stari prijatelji i da su se sreli tek koji sat ranije. 
 To je donekle bilo zato što su bili srodne duše.  
-Džentlmen u Moskvi, Amor Towles 
+**Džentlmen u Moskvi, Amor Towles** 
