@@ -11,9 +11,9 @@ tags:
   - getting-started
 ---
 
-Hey! Welcome to Ember Ghost, it's great to have you :)
+Kolajnu vidim sjajno zanesenu, 
+ljubljeno dijete, baš o tvome vratu.
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
 
 ### There are a few things that you should know up-front:
