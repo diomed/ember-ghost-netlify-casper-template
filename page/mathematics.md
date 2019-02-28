@@ -10,16 +10,12 @@ date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
 ---
 
- Pravilno je i piše se ne bih jer se niječnica (negacija, niječna čestica) ne i glagol uvijek pišu odvojeno, nesastavljeno. 
- Iznimka su glagoli nestati, nedostajati, nemati (nestajem, nedostajem, nemam) kojima je niječnica dio osnove i oblicima 
- nemoj, nemojmo, nemojte; nisam, nisi, nije, nismo, niste, nisu; nisam, nisi, nije, nismo, niste, nisu
-
- Brochette
+Brochette
 
 soleMn
 Moirton Fairfax
 
-Crocodiles are easy. They try to kill and eat you.
+>Crocodiles are easy. They try to kill and eat you.
 People are harder. Sometimes they pretend to be
 your friend first. - Steve Irwin (1962-2006)
 
@@ -33,7 +29,6 @@ your friend first. - Steve Irwin (1962-2006)
 
   God have mercy on the man who doubts what he's sure of.﻿ 
 
-https://app.netlify.com/start/deploy?repository=https://github.com/diomed/jigsaw-blog-template&stack=cms
 
 Black pepper powder on small bleeding cuts. Stops bleeding pretty quickly and is relatively painless.
 
@@ -60,11 +55,10 @@ Punxsutawney
 
  Another failed project, just like everything else I touch
 
- žalis - žališ
 
 
 Morales
-https://unsplash.com/photos/aN_Rhi-8Fug
+https://unsplash.com/photos/aN_Rhi-8Fug  
 https://unsplash.com/photos/Z7TGjOb7Hok
 
  camelia sinentheosis
