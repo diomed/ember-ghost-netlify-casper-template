@@ -1,6 +1,6 @@
 ---
 title: Steve Jobs - commencement speach
-image: /images/advanced.jpg
+image: /images/library.webp
 imageMeta:
   attribution:
   attributionLink:
