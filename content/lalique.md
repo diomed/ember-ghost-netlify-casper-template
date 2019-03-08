@@ -1,6 +1,6 @@
 ---
 title: Lalique
-image: /images/advanced.jpg
+image: https://unsplash.com/photos/2Tokf3MmXvY
 imageMeta:
   attribution:
   attributionLink:
