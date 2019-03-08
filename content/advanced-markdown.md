@@ -1,5 +1,5 @@
 ---
-title: Advanced Markdown tips
+title: Lalique
 image: /images/advanced.jpg
 imageMeta:
   attribution:
@@ -8,14 +8,13 @@ featured: true
 author: ghost
 date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
-  - getting-started
+  - lalique
 ---
 
-There are lots of powerful things you can do with the Markdown
+Hey! Skeet - Skeet - Scripity Script Screech screech!!
 
-If you've gotten pretty comfortable with [all the basics](/the-editor/) of writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do!
 
-As with the last post, you'll want to be looking at the source [directly on github](https://github.com/empress/ember-ghost/blob/master/blueprints/ember-ghost/files/content/advanced-markdown.md) or in your local editor as you read it so that you can see all the Markdown code we're using.
+I remember when I was 12 years old I would always play this video walking home from school through the woods. It gives me nostalgia just thinking about it. The vivid yellow rays from the sun would pierce through the lush green canopy as the trees would sway in the warm wind. As I would take in the visuals i’d play this video on repeat on my iPhone 4 listening to that subtle vocal harmony and piercing guitar riff as if I was addicted to it. This song always made me feel happy to be free from school and now it only fills me with pure N O S T A L G I A. I’m 18 now, in a college hundreds of miles from those beautiful woods stressed as can be but still vibing to this video on my iPhone 7.
 
 
 ## Special formatting
