@@ -1,5 +1,13 @@
 ---
 title: Azathoth
+image: /images/design.jpg
+imageMeta:
+  attribution:
+  attributionLink:
+featured: true
+date: Jun 17 2018 17:49:21 GMT+0100 (IST)
+tags:
+  - azathoth
 ---
 
 Kada su vjekovi pali na svijet, i kada je čuđenje nestalo iz umova ljudi; kada su se sivi gradovi uzdigli ka zadimljenim nebesima svojim visokim tornjevima, tmurnim i ružnim, u čijim sjenama nitko ne može sanjati sunce ili rascvjetane proljetne livade; kada je učenje strgnulo Zemljin plašt ljepote, a pjesnici više ne pjevaše izuzev o izopačenim fantomima viđenim nejasnim i mrenastim očima; kada su se te stvari zbile, i djetinja nada iščeznula zauvijek, došao je čovjek koji je putovao izvan života, u potrazi ka prostranstvima kuda su snovi svijeta utekli.
