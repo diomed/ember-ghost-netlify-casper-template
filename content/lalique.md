@@ -19,25 +19,132 @@ I remember when I was 12 years old I would always play this video walking home f
 
 ## Special formatting
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
 
 + \*escaped characters\*
 
 
-## Writing code blocks
+Not Sufficient
+Ionia
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
+https://i.imgur.com/TNWORy8.jpg
 
-```
-.my-link {
-    text-decoration: underline;
-}
-```
+That's a nice thought....for an idiot to have
+
+Most people would rather die than think; in fact, they do so. ~ Bertrand Russell
+
+My head and heart are empty and somehow still heavy. 
+
+between me and my symphony
+
+ fleksibilne, marljive i dinamične osobe koje su spremne učiti.
+
+sao tome and principe
+
+https://youtu.be/d8LJXcQhD0k
+
+lavender oil
+
+
+ Clever people know what they're doing, smart people know what they're talking about.﻿ 
+ 
+  you wake up in the night With a fear so real
+
+Like a river that don't know where it's flowing,
+I took a wrong turn and I just kept going 
+
+pserafini
+****  
+“My dreams?” a woman in Latvia asked. “That’s something very private, isn’t it?”
+“It’s OK,” I assured her. “I’m a professional, you see. So it’s rather like undressing for a doctor’s exam. Strictly business.”
+“Actually,” she countered, “I’m a stripper, so I have no problem taking off my clothes. But my dreams? That’s very different.”
+****
+
+false glass
+-- Ovo nije oblik komunikacije koji ja prakticiram niti  komuniciram na taj način 
+
+
+Cimet, zvjezdasti anis,   
+klinčić, muškatni oraščić
+
+spellbinding... očaravajuće / što pijeni pažnju
+
+Jurišnici režu moje anđeoske ruke, 
+tražeći potragom za sreću.
+
+Plamičci svijeće tonu u more
+
+infinitesimal 
+
+you had  your soul with your soul
+
+ peaceful nothingness.﻿ 
+C18H21O3N × H2O
+ Electrolytes are the salts in the blood – mostly sodium, potassium, chloride and calcium. 
+ If levels become too high or too low, your body has a way of alerting you, by making your 
+ heart stop or putting you in a coma. It’s clever like that.
+
+ Recreate the experience for yourself by tying your shoelaces with chopsticks. With your eyes closed. In space.
+
+Broken
+I was not born a poet.
+I was broken into one.
+
+ “But with the freedom came sadness.” 
+
+“I've learned that intelligence alone doesn't mean a damned thing. 
+Here in your university, intelligence, education, knowledge, have all become great idols. 
+But I know now there's one thing you've all overlooked: intelligence and education that 
+hasn't been tempered by human affection isn't worth a damn.”
+― Daniel Keyes, Flowers for Algernon 
+No one had spoken of hope. The feeling was of living death-or worse, of never having been fully alive and knowing. 
+Souls withered from the beginning, and doomed to stare into the time and space of every day.
+
+"If that is your understanding of the current agreement, 
+we need go revisit the language so that your expectation 
+levels can be set more appropriately."
+
+arhipelago
+
+I eat owls. that's not a good thing.
+
+“Death is not the worst that can happen to men.”
+
+― Plato 
+
+ "Birth is a curse and existence is a prison" 
+
+flamelike cypress
+
+All suffused within incandescent glow
+
+Pink Floyd  -  High Hopes
+
+Bird's eye
+
+sokoban
+
+skedaddle
+
+forlorn
+
+Dispatcher
+
+ender+s heart
+
+pi%
+
+Forlorn
+
+
+There is just nothing good to say about forlorn. Desolate or dreary; unhappy or miserable . . . ." 
+The meaning draws a pretty bleak picture. You're blue, down in the dumps, woebegone. 
+That's a forlorn feeling, for sure.
+
+decency & dignity
 
 
 ## Full bleed images
 
-One neat trick which you can use in Markdown to distinguish between different types of images is to add a `#hash` value to the end of the source URL, and then target images containing the hash with special styling. For example:
 
 ![walking](https://casper.ghost.org/v1.0.0/images/walking.jpg#full)
 
