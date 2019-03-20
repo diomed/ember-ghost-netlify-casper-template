@@ -65,8 +65,6 @@ emergent properties
 Kitten Excellence. Oppulence. Decadence. 
     Loud Puppies
 
-    https://i.imgur.com/BvlZLx7.gifv
-
     across the glassy surface
 
     encased in glass 
