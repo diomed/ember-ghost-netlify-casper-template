@@ -35,7 +35,13 @@ module.exports = function(environment) {
         label: 'Camino',
         route: 'page',
         id: 'camino'
-      }]
+      },
+                   {
+        label: 'Prime',
+        route: 'page',
+        id: 'prime'
+      }
+                  ]
     }
   };
 
