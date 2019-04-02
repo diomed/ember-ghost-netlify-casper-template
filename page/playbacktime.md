@@ -8,7 +8,7 @@ featured: true
 author: Carson Clay
 date: Tue Apr 02 2019 14:44:44 GMT+0100 (IST)
 tags:
-
+---
 
 What is life but a teardrop in the eye of infinity? Together, we lived, we laughed, we loved. But you left me and now, I walk this wilderness alone. What use is a cop with a broken heart? Without you, I’m nothing… nothing…nothing…nothing…nothing…nothing…nothing. NOTHING. The Romans lit fires in the skulls of their dead so they might forget their past. Wherever I look, I’m reminded our relationship is dead. Nothing.
 
