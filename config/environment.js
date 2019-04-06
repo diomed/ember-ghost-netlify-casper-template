@@ -40,6 +40,11 @@ module.exports = function(environment) {
         label: 'Prime',
         route: 'page',
         id: 'prime'
+      },
+                                      {
+        label: 'Playback time',
+        route: 'page',
+        id: 'playbacktime'
       }
                   ]
     }
