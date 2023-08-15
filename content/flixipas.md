@@ -20,6 +20,8 @@ kojima vadiš izohipse iz svoga srca.
 Pričaj mi o rezanju tangenti  
 na presjecima morskih valova. 
 
+-- pričaj mi o žilicama svojih zjenica -- 
+
 Pričaj mi o sebi.
 
 Pričaj mi o valovitosti svojih (v)oćnih jabučica
